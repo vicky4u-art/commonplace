@@ -5,3 +5,6 @@
 @media(max-width:380px){.main{padding-left:14px;padding-right:14px}.capture-actions .btn{font-size:11px;padding:9px 7px}.project-grid{gap:8px}.project-card{padding:13px}}
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{animation-duration:.01ms!important;transition-duration:.01ms!important}}
 
+
+.sync-status{display:block;border:0;background:transparent;color:#647367;font:inherit;font-size:12px;padding:3px 0 12px;text-align:left;cursor:pointer;max-width:100%;overflow-wrap:anywhere}
+.settings-card .row{flex-wrap:wrap}.settings-card .notice{margin-top:16px}.settings-card .btn{margin-top:6px}

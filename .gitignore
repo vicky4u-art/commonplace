@@ -1,0 +1,5 @@
+node_modules/
+.openai/
+.env*
+supabase/.temp/
+dist/
